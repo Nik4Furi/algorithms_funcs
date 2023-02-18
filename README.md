@@ -22,12 +22,11 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
 
-**Day-3: Convert Binary->Decimail and Decimal->Binary, Count setbits 0s and 1s, check given number is even** 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/07_Convert_inBinary"> 07_Convert_inBinary </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/08_Convert_inDecimal"> 08_Convert_inDecimal </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/09_Check_Even"> 09_Check_Even </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/10_Count_SetBits_1s"> 10_Count_SetBits_1s </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/11_Count_SetBits_0s"> 11_Count_SetBits_0s </a> 
+**Day-4: Factorial of num, find nCr, check given number is Prime and power of any number** 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/12_Fectorial_ofNum"> 12_Fectorial_ofNum </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/13_nCr_ofNum"> 13_nCr_ofNum </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/14_isPrime"> 14_isPrime </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/15_Power_ofNum"> 15_Power_ofNum </a> 
 
 <a href="#algorithms_funcs">Go Home </a>
 
