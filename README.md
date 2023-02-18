@@ -22,10 +22,12 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
 
-**Day-2: Print fibonacci series, print and reverse the array** 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/04_Print_Fibonacci"> 04_Print_Fibonacci </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/05_Print_Array"> 05_Print_Array </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/06_Reverse_Array"> 06_Reverse_Array </a> 
+**Day-3: Convert Binary->Decimail and Decimal->Binary, Count setbits 0s and 1s, check given number is even** 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/07_Convert_inBinary"> 07_Convert_inBinary </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/08_Convert_inDecimal"> 08_Convert_inDecimal </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/09_Check_Even"> 09_Check_Even </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/10_Count_SetBits_1s"> 10_Count_SetBits_1s </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/11_Count_SetBits_0s"> 11_Count_SetBits_0s </a> 
 
 <a href="#algorithms_funcs">Go Home </a>
 
