@@ -22,10 +22,10 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
 
-**Day-1: check a character alphabates, left and right shift** 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/01_Check_Alphabates"> 01_Check_Alphabates </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/02_Implement_Left_Shift"> 02_Implement_Left_Shift </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/03_Implement_Right_Shift"> 03_Implement_Right_Shift </a> 
+**Day-2: Print fibonacci series, print and reverse the array** 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/04_Print_Fibonacci"> 04_Print_Fibonacci </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/05_Print_Array"> 05_Print_Array </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/06_Reverse_Array"> 06_Reverse_Array </a> 
 
 <a href="#algorithms_funcs">Go Home </a>
 
