@@ -4,6 +4,7 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 ## Indexing the contents
 ####   <p><a href="#badges" >Badges</a></p>
+####   <p><a href="#approaches" >Most Useful Algorithms and Approaches </a></p>
 ####   <p><a href="#pinned" >Pinned or HelpFull Repls Links or Repls</a></p>
 ####   <p><a href="#features" >Features</a></p>
 ####   <p><a href="#relatedProjects" >Related Projects</a></p>
@@ -20,13 +21,17 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 <a href="#algorithms_funcs">Go Home </a>
 
 
+## <h2 id="approaches" >Most Useful Algorithms and Approaches </h2>
+
+**Binary Search**: <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/Searching_Algorithms/17_Binary_Search"> 17_Binary_Search </a> 
+
+<a href="#algorithms_funcs">Go Home </a>
+
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
 
-**Day-4: Factorial of num, find nCr, check given number is Prime and power of any number** 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/12_Fectorial_ofNum"> 12_Fectorial_ofNum </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/13_nCr_ofNum"> 13_nCr_ofNum </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/14_isPrime"> 14_isPrime </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/15_Power_ofNum"> 15_Power_ofNum </a> 
+**Day-5: Learning the Binary Search, and Linear Search** 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/Searching_Algorithms/16_Search_eleInd_array"> 16_Search_eleInd_array </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/Searching_Algorithms/17_Binary_Search"> 17_Binary_Search </a> 
 
 <a href="#algorithms_funcs">Go Home </a>
 
@@ -42,6 +47,6 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 ## <h2 id="relatedProjects" >Related Projects_Notes </h2>
 
-Our algorithms_funcs, where we include all our learning tuts and code our practising
+Our dsa_journey, where we include all our learning tuts and code our practising
 
-[algorithms_funcs](https://github.com/Nik4Furi/algorithms_funcs)
+[dsa_journey](https://github.com/Nik4Furi/dsa_journey)

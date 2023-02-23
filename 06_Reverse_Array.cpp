@@ -4,7 +4,7 @@
 
 */
 
-void Rev_Array(vector<int> arr){
+void Rev_Array(vector<int> &arr){
     
     int n = arr.size();
     for (int i = 0; i < n/2; i++) {
