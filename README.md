@@ -29,7 +29,7 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
 
-**Day-5: SieveOfErastothoras, fastPower and GCD of two numbers** 
+**Day-6: SieveOfErastothoras, fastPower and GCD of two numbers** 
 - <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/14_isPrime_countPrimes"> 14_isPrime_countPrimes </a> 
 - <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/15_Power_ofNum"> 15_power_ofNum </a> 
 - <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/19_GCD"> GCD </a> 
