@@ -29,9 +29,10 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
 
-**Day-5: Learning the Binary Search, and Linear Search** 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/Searching_Algorithms/16_Search_eleInd_array"> 16_Search_eleInd_array </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/Searching_Algorithms/17_Binary_Search"> 17_Binary_Search </a> 
+**Day-5: SieveOfErastothoras, fastPower and GCD of two numbers** 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/14_isPrime_countPrimes"> 14_isPrime_countPrimes </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/15_Power_ofNum"> 15_power_ofNum </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/19_GCD"> GCD </a> 
 
 <a href="#algorithms_funcs">Go Home </a>
 
