@@ -27,14 +27,26 @@ algorithms_funcs, these functions and build by me and I am also creating short n
 
 <a href="#algorithms_funcs">Go Home </a>
 
-## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
 
-**Day-6: SieveOfErastothoras, fastPower and GCD of two numbers** 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/14_isPrime_countPrimes"> 14_isPrime_countPrimes </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/15_Power_ofNum"> 15_power_ofNum </a> 
-- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/19_GCD"> GCD </a> 
+## <h2 id="ds" >Data Structure and Algorithms </h2>
 
-<a href="#algorithms_funcs">Go Home </a>
+#### <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/00_Bits"> Bits Manipulation </a>
+#### <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/01_Arrays"> Arrays </a>
+#### <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/02_Maths"> Maths </a>
+#### <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/03_Strings"> Strings </a>
+#### <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/04_Searching_Sorting"> Searching & Sorting </a>
+#### <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/05_Recursion&Backtracking"> Recursion & Backtracking </a>
+#### <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/06_Linked_List"> Linked List and Its Types </a>
+
+
+
+<!-- ## <h2 id="pinned" >Pinned or HelpFull Repls Links or Repls or Funcs </h2>
+
+**Day-7: Linked List, Recursion, Arrays** 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/02_Recursion&Backtracking"> 02_Recursion&Backtracking </a> 
+- <a href="https://github.com/Nik4Furi/algorithms_funcs/blob/master/03_Linked_List"> 03_Linked_List </a> 
+
+<a href="#algorithms_funcs">Go Home </a> -->
 
 
 ## <h2 id="features">Features </h2>

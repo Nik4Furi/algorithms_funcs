@@ -38,3 +38,7 @@ long long int fastPower(int a,int b){
     }
     return res;
 }
+
+/* OPTIMAL :: power of 2*/
+bool isPower2(int num)
+    return (num & (num-1));

@@ -9,7 +9,7 @@
 
     Got the conversion of Decimal -> Binary
 
-    Time complexity :- O(n/2) or O(log n)
+    Time complexity :- O(n/2)
     Space Complexity :- O(n) or O(20) or O(1) . here n is no. of digits we store
     
 */
@@ -38,7 +38,7 @@ void Ap_1_Binary(int num){
 
     2. Right shift the 'num', upto num!=0
 
-    Time Complexity: O(n/2) or O(log n)
+    Time Complexity: O(n/2)
     Space Complexity: O(1)
 
 */
